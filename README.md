@@ -42,11 +42,11 @@ flutter run
 
 ## Tech Stack
 
-Flutter	- Mobile UI framework used for building cross-platform apps
-Dart	- Programming language used in Flutter
-HTTP	- For making API requests to JSONPlaceholder
-Stateful Widgets	- To manage UI updates using setState()
-JSONPlaceholder	- A fake online REST API for testing and prototyping
+- Flutter	- Mobile UI framework used for building cross-platform apps
+- Dart	- Programming language used in Flutter
+- HTTP	- For making API requests to JSONPlaceholder
+- Stateful Widgets	- To manage UI updates using setState()
+- JSONPlaceholder	- A fake online REST API for testing and prototyping
 
 
 
