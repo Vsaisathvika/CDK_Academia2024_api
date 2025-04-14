@@ -7,7 +7,7 @@ It allows users to:
 - View a list of users
 - Add a new user
 - Edit existing user details
-- Delete a user with confirmation
+- Delete a user with confirmation<br>
 This is a beginner-friendly project ideal for understanding API integration, local state, and UI component breakdown in Flutter.
 The app uses **local state management** (`setState`) and displays user data in a clean, intuitive UI.
 
